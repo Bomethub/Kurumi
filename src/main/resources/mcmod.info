@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "kurumi",
+    "name": "Kurumi",
+    "description": "Client-side straight-line block placement assistant for Minecraft Forge 1.8.9.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/Bomethub/Kurumi",
+    "updateUrl": "",
+    "authorList": [
+      "Bomethub"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
